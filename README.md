@@ -20,6 +20,5 @@ The stack:
 - [Maven](https://maven.apache.org/download.cgi)
 
 ## Built With
-* [Pusher](https://pusher.com/) - APIs to enable devs building realtime features
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [Spring Boot](https://projects.spring.io/spring-boot/) - To create the Spring application
